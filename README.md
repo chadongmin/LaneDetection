@@ -13,7 +13,7 @@ Sliding Window기법을 사용하여 차선을 인식하고, 인식한 차선을
 
 ------------------------------------------------------------------------------------------
 ### demo <br>
-* 우측화면의 원본 동영상을 Lane Detection process를 거쳐 좌측 화면으로 출력.
+* 웹캠을 통해 우측 원본 동영상을 인식 후 Lane Detection process를 거쳐 좌측 화면에 검출된 차선을 출력.
 <p align="center">
   <img src="https://github.com/chadongmin/LaneDetection/assets/40655807/cf80eca1-8cf3-4b77-8d1b-ddfb43ac552d">
 </p>
